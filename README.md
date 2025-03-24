@@ -22,7 +22,7 @@
   - Managing & Coordinating to engineer perfect performing systems.
 - **Ceylonsoft Solutions** (2022–2024)  
   Software Engineer  
-  - Developed backend systems for JANBARLTV and a football fan club platform using Laravel and AWS.
+  - Developed backend systems for JANBARLTV and a football fan club platform using Laravel and AWS and Engineered Surala Education Platform.
 - **Aleph Inc** (2021–2022)  
   Software Engineer  
   - Delivered robust web solutions in the Web Schema domain.
@@ -39,9 +39,9 @@
 I’m passionate about turning ideas into reality through code. Whether it’s designing a seamless mobile app, optimizing a backend system, or experimenting with IoT using Arduino, I love solving problems and delivering value.
 
 📫 **Let’s Connect!**  
-- Email (Primary): [adppriyashan@gmail.com](mailto:adppriyashan@icloud.com)
-- Email (Secondary): [adppriyashan@gmail.com](mailto:adpasindupriyashan@gmail.com)  
+- Email (Primary): [adppriyashan@icloud.com](mailto:adppriyashan@icloud.com)
+- Email (Secondary): [adpasindupriyashan@gmail.com](mailto:adpasindupriyashan@gmail.com)  
 - LinkedIn: [My Profile](https://linkedin.com/in/pasindu-priyashan-087b61110)  
-- Phone: +94 779 778 269  
+- Phone: [+94 779 778 269  ](tel:+94779778269)
 
 🔍 Explore my repositories below to see my work in action!
