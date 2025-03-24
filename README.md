@@ -41,7 +41,7 @@ I’m passionate about turning ideas into reality through code. Whether it’s d
 📫 **Let’s Connect!**  
 - Email (Primary): [adppriyashan@gmail.com](mailto:adppriyashan@icloud.com)
 - Email (Secondary): [adppriyashan@gmail.com](mailto:adpasindupriyashan@gmail.com)  
-- LinkedIn: [My Profile](www.linkedin.com/in/pasindu-priyashan-087b61110)  
+- LinkedIn: [My Profile](https://linkedin.com/in/pasindu-priyashan-087b61110)  
 - Phone: +94 779 778 269  
 
 🔍 Explore my repositories below to see my work in action!
