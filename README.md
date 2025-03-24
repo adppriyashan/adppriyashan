@@ -19,7 +19,7 @@
 ## 💻 Professional Journey
 - **Aleph Inc** (2024–Current)  
   Senior Software Engineer  
-  - Managing & Coordinating to engineer beft performing systems.
+  - Managing & Coordinating to engineer perfect performing systems.
 - **Ceylonsoft Solutions** (2022–2024)  
   Software Engineer  
   - Developed backend systems for JANBARLTV and a football fan club platform using Laravel and AWS.
