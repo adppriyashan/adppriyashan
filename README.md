@@ -4,7 +4,7 @@
 
 👋 Hi, I’m Pasindu! A passionate **Software Engineer** with over **5+ years of experience** in building innovative standalone, web, and mobile solutions. I specialize in **Laravel**, **Flutter**, and **Electron**, with a knack for crafting scalable, efficient, and user-focused applications.
 
-💼 Currently, I’m a **Software Engineer at Ceylonsoft Solutions** (2022–Present), where I contribute to projects like **JANBARLTV**, Japan’s largest pachinko and pachislot video site, and a Japanese football fan club system—leveraging **Laravel** and **AWS cloud solutions**.
+💼 Currently, I’m a **Senior Software Engineer at Aleph Technologies** (2024–Present), where I contribute to projects like **HRM By Alephaz**, **Dispatch X**, and others.
 
 ---
 
