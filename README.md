@@ -24,7 +24,7 @@
   - Managing & Coordinating to engineer perfect performing systems.
 - **Ceylonsoft Solutions** (2022–2024)  
   Software Engineer  
-  - Developed backend systems for JANBARLTV and a football fan club platform using Laravel and AWS and Engineered Surala Education Platform.
+  - Developed backend systems for JANBARLTV and a football fan club platform using Laravel, AWS Clous solutions and Engineered Surala Education Platform.
 - **Aleph Inc** (2021–2022)  
   Software Engineer  
   - Delivered robust web solutions in the Web Schema domain.
