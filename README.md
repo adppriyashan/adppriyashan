@@ -6,7 +6,7 @@
 
 💼 Currently, I’m a **Senior Software Engineer at Aleph Technologies** (2024–Present), where I contribute to projects like **HRM By Alephaz**, **Dispatch X**, and others.
 
-⭐ And also working as a Software Architecture Enginner @ Nolas Workspace in Germany.
+⭐ And also working as a Software Architecture Engineer @ [**Nolas Workspace**](https://bewerbung.nolasworkspace.com/en) in Germany.
 
 ---
 
