@@ -2,9 +2,11 @@
 
 # Pasindu Priyashan | Full-Stack Software Engineer
 
-👋 Hi, I’m Pasindu! A passionate **Software Engineer** with over **5+ years of experience** in building innovative standalone, web, and mobile solutions. I specialize in **Laravel**, **Flutter**, and **Electron**, with a knack for crafting scalable, efficient, and user-focused applications.
+👋 Hi, I’m Pasindu! A passionate **Senior Software Engineer** with over **5+ years of experience** in building innovative standalone, web, and mobile solutions. I specialize in **Laravel**, **Flutter**, and **Electron**, with a knack for crafting scalable, efficient, and user-focused applications.
 
 💼 Currently, I’m a **Senior Software Engineer at Aleph Technologies** (2024–Present), where I contribute to projects like **HRM By Alephaz**, **Dispatch X**, and others.
+
+⭐ And also working as a Software Architecture Enginner @ Nolas Workspace in Germany.
 
 ---
 
