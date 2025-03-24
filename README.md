@@ -1,14 +1,47 @@
-![alt README header](https://aries.lk/public/assets/images/git-header.png)
+![Header Image](https://aries.lk/public/assets/images/git-header.png)
 
-# Standalone | Web | Mobile Software Enginner with 3+ years of experience
+# Pasindu Priyashan | Full-Stack Software Engineer
 
-👋 Hi there! I'm a Senior Software Engineer specializing in web development with Laravel and mobile app development using Flutter. With a strong foundation in software engineering, I thrive on crafting efficient and scalable solutions.
+👋 Hi, I’m Pasindu! A passionate **Software Engineer** with over **5+ years of experience** in building innovative standalone, web, and mobile solutions. I specialize in **Laravel**, **Flutter**, and **Electron**, with a knack for crafting scalable, efficient, and user-focused applications.
 
-💼 Currently, I'm contributing to innovative projects at Aleph Technologies.
+💼 Currently, I’m a **Software Engineer at Ceylonsoft Solutions** (2022–Present), where I contribute to projects like **JANBARLTV**, Japan’s largest pachinko and pachislot video site, and a Japanese football fan club system—leveraging **Laravel** and **AWS cloud solutions**.
 
-🔧 Technical Skills:
+---
 
-    Databases: Expertise in NoSQL (MongoDB, Firebase) and SQL (MySQL, SQLite).
-    CI/CD Pipelines: Fluent in managing and automating workflows using FTP and Jenkins.
+## 🔧 Technical Toolbox
+- **Languages & Frameworks**: Laravel, Flutter, Electron (Node.js), Java (Swing, ME, Hibernate), Native Android
+- **Databases**: MySQL, Firebase, MongoDB, SQLite
+- **Tools & Platforms**: AWS, Plesk, Arduino, Jenkins (CI/CD), FTP
+- **Other Skills**: Problem-solving, backend development, cross-platform apps
 
-🌟 I'm always looking forward to collaborating on challenging projects and sharing knowledge. Feel free to explore my repositories or reach out!
+---
+
+## 💻 Professional Journey
+- **Aleph Inc** (2024–Current)  
+  Senior Software Engineer  
+  - Managing & Coordinating to engineer beft performing systems.
+- **Ceylonsoft Solutions** (2022–2024)  
+  Software Engineer  
+  - Developed backend systems for JANBARLTV and a football fan club platform using Laravel and AWS.
+- **Aleph Inc** (2021–2022)  
+  Software Engineer  
+  - Delivered robust web solutions in the Web Schema domain.
+- **Chamathkaara Software Solutions** (2020–2021)  
+  Associate Software Engineer  
+  - Built scalable applications with a focus on Laravel and Flutter.
+- **Digital Bee** (2019–2020)  
+  Junior Developer  
+  - Kicked off my career with hands-on experience in software development.
+
+---
+
+## 🌟 What Drives Me
+I’m passionate about turning ideas into reality through code. Whether it’s designing a seamless mobile app, optimizing a backend system, or experimenting with IoT using Arduino, I love solving problems and delivering value.
+
+📫 **Let’s Connect!**  
+- Email (Primary): [adppriyashan@gmail.com](mailto:adppriyashan@icloud.com)
+- Email (Secondary): [adppriyashan@gmail.com](mailto:adpasindupriyashan@gmail.com)  
+- LinkedIn: [My Profile](www.linkedin.com/in/pasindu-priyashan-087b61110)  
+- Phone: +94 779 778 269  
+
+🔍 Explore my repositories below to see my work in action!
