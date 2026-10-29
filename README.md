@@ -19,7 +19,10 @@
 ---
 
 ## 💻 Professional Journey
-- **Aleph Inc** (2024–Current)  
+- **AriesXTech** (2026–Current)  
+  Senior Software Engineer  
+  - Specializing in mobile and micro services related back-ends.
+- **Aleph Inc** (2024–2026)  
   Senior Software Engineer  
   - Managing & Coordinating to engineer perfect performing systems.
 - **Ceylonsoft Solutions** (2022–2024)  
